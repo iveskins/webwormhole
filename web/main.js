@@ -6,7 +6,7 @@ let sending
 let datachannel
 let serviceworker
 //let signalserver = new URL('https://webwormhole.io')
-let signalserver = new URL('wss://server.saltyrtc.org:443')
+let signalserver = new URL('https://server.saltyrtc.org:443')
 const hacks = {}
 
 const pick = e => {
