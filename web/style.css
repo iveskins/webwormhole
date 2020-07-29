@@ -177,7 +177,7 @@ a:visited:hover {
 	border-bottom: 1px solid;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
 	body,
 	body.disconnected,
 	body.dialling,
@@ -193,7 +193,7 @@ a:visited:hover {
 
 	body.connected {
 		background: radial-gradient(#170926 0%, #3a0c3c 100%);
-		background-image: url(stars.svg);
+		background-image: url(275132.png);
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
