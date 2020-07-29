@@ -5,7 +5,7 @@ let receiving
 let sending
 let datachannel
 let serviceworker
-let signalserver = new URL(location.href)
+let signalserver = new URL('https://webwormhole.io')
 const hacks = {}
 
 const pick = e => {
